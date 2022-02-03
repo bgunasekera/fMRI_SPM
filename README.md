@@ -1,5 +1,4 @@
-#Cantop
-
+# Cantop
 Create_marsbar_ROI_mask = creates ROI masks in marsbar 
 
 Extract_contrast_estimates = extracts the contrast estimates from the marsbar ROI from the SPM.mat file 
