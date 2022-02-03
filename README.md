@@ -1,12 +1,8 @@
-To use scripts:
-In terminal 
-1) module load spm
-2) module load matlab
-3) load matlab
-4) (in matlab) load spm
-5) In gui load Marsbar (under toolbox)-- optional: only if using scripts that run in Marsbar.
-
-Please note, login1.nan and login2.nan only allow this (correct at time of writing). Other servers do not support opening SPM etc.
+Create_marsbar_ROI_mask = creates ROI masks in marsbar 
+Extract_contrast_estimates = extracts the contrast estimates from the marsbar ROI from the SPM.mat file 
+lmer_caarms_contrast_est = lmer for caarms symptoms with extracted contrast estimates 
+Performance_caarms = modelling for MIDT task performance with caarms symptoms 
+Performance_contrast_est = modelling for MIDT task performance with extracted contrast estimates 
  
 
 
